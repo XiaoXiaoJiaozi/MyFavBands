@@ -7,15 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD766C6425142604004E538A /* The Cranberries.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD766C6325142604004E538A /* The Cranberries.jpg */; };
+		FD766C6825143790004E538A /* SuperTramp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD766C6725143790004E538A /* SuperTramp.jpg */; };
+		FD766C6A251437D0004E538A /* Shakira.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD766C69251437D0004E538A /* Shakira.jpg */; };
 		FDDB4FFD2513EE9700580D19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDDB4FFC2513EE9700580D19 /* AppDelegate.swift */; };
 		FDDB4FFF2513EE9700580D19 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDDB4FFE2513EE9700580D19 /* MasterViewController.swift */; };
 		FDDB50012513EE9700580D19 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDDB50002513EE9700580D19 /* DetailViewController.swift */; };
 		FDDB50042513EE9700580D19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDDB50022513EE9700580D19 /* Main.storyboard */; };
 		FDDB50062513EE9800580D19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDDB50052513EE9800580D19 /* Assets.xcassets */; };
 		FDDB50092513EE9800580D19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDDB50072513EE9800580D19 /* LaunchScreen.storyboard */; };
+		FDDB50322514119800580D19 /* Chicago.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDDB50282514119800580D19 /* Chicago.jpg */; };
+		FDDB50352514119800580D19 /* Pink.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDDB502B2514119800580D19 /* Pink.jpg */; };
+		FDDB50372514119800580D19 /* Beach boys.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDDB502D2514119800580D19 /* Beach boys.jpg */; };
+		FDDB50382514119800580D19 /* Mayday.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDDB502E2514119800580D19 /* Mayday.jpg */; };
+		FDDB50392514119800580D19 /* main.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDDB502F2514119800580D19 /* main.jpg */; };
+		FDDB503A2514119800580D19 /* Celine Dion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDDB50302514119800580D19 /* Celine Dion.jpg */; };
+		FDDB503B2514119800580D19 /* Bertie Higgins.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDDB50312514119800580D19 /* Bertie Higgins.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD766C6325142604004E538A /* The Cranberries.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The Cranberries.jpg"; sourceTree = "<group>"; };
+		FD766C6725143790004E538A /* SuperTramp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SuperTramp.jpg; sourceTree = "<group>"; };
+		FD766C69251437D0004E538A /* Shakira.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shakira.jpg; sourceTree = "<group>"; };
 		FDDB4FF92513EE9600580D19 /* MyFavBands.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFavBands.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDDB4FFC2513EE9700580D19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FDDB4FFE2513EE9700580D19 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +37,13 @@
 		FDDB50052513EE9800580D19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FDDB50082513EE9800580D19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FDDB500A2513EE9800580D19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDDB50282514119800580D19 /* Chicago.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chicago.jpg; sourceTree = "<group>"; };
+		FDDB502B2514119800580D19 /* Pink.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pink.jpg; sourceTree = "<group>"; };
+		FDDB502D2514119800580D19 /* Beach boys.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Beach boys.jpg"; sourceTree = "<group>"; };
+		FDDB502E2514119800580D19 /* Mayday.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mayday.jpg; sourceTree = "<group>"; };
+		FDDB502F2514119800580D19 /* main.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = main.jpg; sourceTree = "<group>"; };
+		FDDB50302514119800580D19 /* Celine Dion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Celine Dion.jpg"; sourceTree = "<group>"; };
+		FDDB50312514119800580D19 /* Bertie Higgins.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bertie Higgins.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +60,7 @@
 		FDDB4FF02513EE9600580D19 = {
 			isa = PBXGroup;
 			children = (
+				FDDB5027251409D300580D19 /* Image */,
 				FDDB4FFB2513EE9600580D19 /* MyFavBands */,
 				FDDB4FFA2513EE9600580D19 /* Products */,
 			);
@@ -65,6 +86,23 @@
 				FDDB500A2513EE9800580D19 /* Info.plist */,
 			);
 			path = MyFavBands;
+			sourceTree = "<group>";
+		};
+		FDDB5027251409D300580D19 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				FDDB502F2514119800580D19 /* main.jpg */,
+				FDDB502D2514119800580D19 /* Beach boys.jpg */,
+				FDDB50312514119800580D19 /* Bertie Higgins.jpg */,
+				FDDB50302514119800580D19 /* Celine Dion.jpg */,
+				FDDB50282514119800580D19 /* Chicago.jpg */,
+				FDDB502E2514119800580D19 /* Mayday.jpg */,
+				FDDB502B2514119800580D19 /* Pink.jpg */,
+				FD766C6725143790004E538A /* SuperTramp.jpg */,
+				FD766C69251437D0004E538A /* Shakira.jpg */,
+				FD766C6325142604004E538A /* The Cranberries.jpg */,
+			);
+			path = Image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +163,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDDB50372514119800580D19 /* Beach boys.jpg in Resources */,
+				FDDB50382514119800580D19 /* Mayday.jpg in Resources */,
+				FDDB50322514119800580D19 /* Chicago.jpg in Resources */,
 				FDDB50092513EE9800580D19 /* LaunchScreen.storyboard in Resources */,
 				FDDB50062513EE9800580D19 /* Assets.xcassets in Resources */,
+				FD766C6425142604004E538A /* The Cranberries.jpg in Resources */,
+				FDDB503A2514119800580D19 /* Celine Dion.jpg in Resources */,
 				FDDB50042513EE9700580D19 /* Main.storyboard in Resources */,
+				FD766C6825143790004E538A /* SuperTramp.jpg in Resources */,
+				FDDB503B2514119800580D19 /* Bertie Higgins.jpg in Resources */,
+				FDDB50392514119800580D19 /* main.jpg in Resources */,
+				FD766C6A251437D0004E538A /* Shakira.jpg in Resources */,
+				FDDB50352514119800580D19 /* Pink.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
